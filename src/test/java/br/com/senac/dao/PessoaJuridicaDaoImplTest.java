@@ -92,5 +92,5 @@ public class PessoaJuridicaDaoImplTest {
         }
         return pessoaJuridica;
     }
-
+    
 }
